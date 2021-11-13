@@ -1,5 +1,5 @@
 # React Page Transition
-![](images/react-page-transition-screen.png)
+![REACT-WEBSITE](src/images/react-page-transition-screen.png)
 
 # Getting Started with Create React App
 
